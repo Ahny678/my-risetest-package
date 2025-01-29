@@ -1,0 +1,25 @@
+{
+  "name": "modeofarr",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "Returns the most frequent element in an array of numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahny678/my-risetest-package.git"
+  },
+  "keywords": [
+    "mode",
+    "object",
+    "reduce"
+  ],
+  "author": "Tiffany Ugwunebo <nebotiffany@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahny678/my-risetest-package/issues"
+  },
+  "homepage": "https://github.com/Ahny678/my-risetest-package#readme"
+}
